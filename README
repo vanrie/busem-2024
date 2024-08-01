@@ -1,0 +1,8 @@
+https://github.com/korthout/camunda-platform-rest-api/tree/main
+
+Username + PW: demo demo
+
+
+to start navigate to folder where the yaml file is located and run "docker-compose up"
+
+![alt text](image.png)
